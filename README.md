@@ -104,7 +104,7 @@ We're done with the environment.
 
 First compile the contract:
 ```
-pnx hardhat compile
+npx hardhat compile
 ```
 Deploy it on the goerli testnet.
 ```
